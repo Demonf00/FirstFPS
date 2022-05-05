@@ -214,3 +214,55 @@ Received Import Request.
 Start importing Assets/Creator Kit - FPS/Art/Models/Characters/GermSpikeModel.FBX using Guid(6fd3b5c2df6073f4ea432cc9086b6f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64f937e511e5d62b7a8c1f2319998e5') in 0.042131 seconds
   Import took 0.045360 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.983 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1549 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.6 MB.
+System memory in use after: 92.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2046.
+Total: 3.473800 ms (FindLiveObjects: 0.683500 ms CreateObjectMapping: 0.268300 ms MarkObjects: 2.492800 ms  DeleteObjects: 0.025000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 488.433413 seconds.
+  path: Assets/Creator Kit - FPS/Art/Models/Characters/GermSpike.prefab
+  artifactKey: Guid(dddeda6d0629a09438dbf97ce84d81fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - FPS/Art/Models/Characters/GermSpike.prefab using Guid(dddeda6d0629a09438dbf97ce84d81fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c32d2c1045e78400e158a49d0b7c16d') in 0.090622 seconds
+  Import took 0.094214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.050123 seconds.
+  path: Assets/Creator Kit - FPS/Art/Models/Characters/GermSpike.prefab
+  artifactKey: Guid(dddeda6d0629a09438dbf97ce84d81fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - FPS/Art/Models/Characters/GermSpike.prefab using Guid(dddeda6d0629a09438dbf97ce84d81fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64642a39b1002efdbb48eed0c78f9d3') in 0.035685 seconds
+  Import took 0.043965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.478247 seconds.
+  path: Assets/Creator Kit - FPS/Prefabs/Targets/GermSpike.prefab
+  artifactKey: Guid(fa3bc5dbde5b52641826a0931eba2ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - FPS/Prefabs/Targets/GermSpike.prefab using Guid(fa3bc5dbde5b52641826a0931eba2ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c476fc82ee7837e679f4fa70eba6b72') in 0.030436 seconds
+  Import took 0.035563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013326 seconds.
+  path: Assets/Creator Kit - FPS/Prefabs/Targets/GermSpike.prefab
+  artifactKey: Guid(fa3bc5dbde5b52641826a0931eba2ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - FPS/Prefabs/Targets/GermSpike.prefab using Guid(fa3bc5dbde5b52641826a0931eba2ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c476fc82ee7837e679f4fa70eba6b72') in 0.023897 seconds
+  Import took 0.029187 seconds .
+
